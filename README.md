@@ -1,4 +1,5 @@
 README
+
 Bu proje, Ultralytics YOLO kullanarak kameradan gerçek zamanlı nesne tespiti yapar.
 Performansı artırmak için model her birkaç karede bir çalıştırılmaktadır.
 
